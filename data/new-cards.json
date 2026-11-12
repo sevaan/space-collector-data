@@ -1,0 +1,406 @@
+{
+ "updated": "2026-11-12T20:02:13.994Z",
+ "cards": [
+  {
+   "id": 100089,
+   "name": "RASSVET-3 23",
+   "tier": "epic",
+   "type": "satellite",
+   "kind": "PAY",
+   "owner": "CIS",
+   "launch": "2026-07-19",
+   "added": "2026-10-30",
+   "art": null
+  },
+  {
+   "id": 101228,
+   "name": "NVS-03 (IRNSS-1L)",
+   "tier": "legendary",
+   "type": "satellite",
+   "kind": "PAY",
+   "owner": "IND",
+   "launch": "2026-10-30",
+   "added": "2026-10-31",
+   "art": null
+  },
+  {
+   "id": 101229,
+   "name": "GSLV R/B",
+   "tier": "uncommon",
+   "type": "rocket-body",
+   "kind": "R/B",
+   "owner": "IND",
+   "launch": "2026-10-30",
+   "added": "2026-10-31",
+   "art": null
+  },
+  {
+   "id": 12086,
+   "name": "SL-6 R/B(2)",
+   "tier": "uncommon",
+   "type": "rocket-body",
+   "kind": "R/B",
+   "owner": "CIS",
+   "launch": "1980-11-27",
+   "added": "2026-11-04",
+   "art": null
+  },
+  {
+   "id": 101258,
+   "name": "ELECTRON R/B",
+   "tier": "common",
+   "type": "rocket-body",
+   "kind": "R/B",
+   "owner": "US",
+   "launch": "2026-11-02",
+   "added": "2026-11-04",
+   "art": null
+  },
+  {
+   "id": 101259,
+   "name": "ELECTRON KICK STAGE R/B",
+   "tier": "common",
+   "type": "rocket-body",
+   "kind": "R/B",
+   "owner": "US",
+   "launch": "2026-11-02",
+   "added": "2026-11-04",
+   "art": null
+  },
+  {
+   "id": 100883,
+   "name": "W-SERIES 8",
+   "tier": "epic",
+   "type": "satellite",
+   "kind": "PAY",
+   "owner": "US",
+   "launch": "2026-10-01",
+   "added": "2026-11-05",
+   "art": null
+  },
+  {
+   "id": 100173,
+   "name": "CZ-7A R/B",
+   "tier": "uncommon",
+   "type": "rocket-body",
+   "kind": "R/B",
+   "owner": "PRC",
+   "launch": "2026-07-29",
+   "added": "2026-11-08",
+   "art": null
+  },
+  {
+   "id": 101282,
+   "name": "LIJIAN-2 R/B",
+   "tier": "common",
+   "type": "rocket-body",
+   "kind": "R/B",
+   "owner": "PRC",
+   "launch": "2026-11-03",
+   "added": "2026-11-08",
+   "art": null
+  },
+  {
+   "id": 101286,
+   "name": "CZ-2C R/B",
+   "tier": "common",
+   "type": "rocket-body",
+   "kind": "R/B",
+   "owner": "PRC",
+   "launch": "2026-11-05",
+   "added": "2026-11-08",
+   "art": null
+  },
+  {
+   "id": 101321,
+   "name": "CZ-12 R/B",
+   "tier": "common",
+   "type": "rocket-body",
+   "kind": "R/B",
+   "owner": "PRC",
+   "launch": "2026-11-08",
+   "added": "2026-11-10",
+   "art": null
+  },
+  {
+   "id": 57200,
+   "name": "OBJECT AL",
+   "tier": "legendary",
+   "type": "satellite",
+   "kind": "PAY",
+   "owner": "CIS",
+   "launch": "2023-06-27",
+   "added": "2026-11-11",
+   "art": "modern-satellite"
+  },
+  {
+   "id": 58327,
+   "name": "FLOCK 4Q-4",
+   "tier": "legendary",
+   "type": "satellite",
+   "kind": "PAY",
+   "owner": "US",
+   "launch": "2023-11-11",
+   "added": "2026-11-12",
+   "art": null
+  },
+  {
+   "id": 61746,
+   "name": "COLIBRI-S (RS67S)",
+   "tier": "legendary",
+   "type": "satellite",
+   "kind": "PAY",
+   "owner": "CIS",
+   "launch": "2024-11-04",
+   "added": "2026-11-12",
+   "art": "modern-satellite"
+  },
+  {
+   "id": 101329,
+   "name": "CZ-12 R/B",
+   "tier": "common",
+   "type": "rocket-body",
+   "kind": "R/B",
+   "owner": "PRC",
+   "launch": "2026-11-08",
+   "added": "2026-11-12",
+   "art": null
+  }
+ ],
+ "backlog": {
+  "total": 1106,
+  "byKey": {
+   "early-satellite": 169,
+   "rocket-stage": 8,
+   "classic-satellite": 710,
+   "modern-satellite": 219
+  },
+  "top": [
+   {
+    "id": 1573,
+    "name": "COSMOS 83",
+    "tier": "legendary",
+    "type": "satellite",
+    "owner": "CIS",
+    "launch": "1965-09-03",
+    "art": "early-satellite"
+   },
+   {
+    "id": 1585,
+    "name": "COSMOS 87",
+    "tier": "legendary",
+    "type": "satellite",
+    "owner": "CIS",
+    "launch": "1965-09-18",
+    "art": "early-satellite"
+   },
+   {
+    "id": 1571,
+    "name": "COSMOS 81",
+    "tier": "legendary",
+    "type": "satellite",
+    "owner": "CIS",
+    "launch": "1965-09-03",
+    "art": "early-satellite"
+   },
+   {
+    "id": 1587,
+    "name": "COSMOS 89",
+    "tier": "legendary",
+    "type": "satellite",
+    "owner": "CIS",
+    "launch": "1965-09-18",
+    "art": "early-satellite"
+   },
+   {
+    "id": 1570,
+    "name": "COSMOS 80",
+    "tier": "legendary",
+    "type": "satellite",
+    "owner": "CIS",
+    "launch": "1965-09-03",
+    "art": "early-satellite"
+   },
+   {
+    "id": 1586,
+    "name": "COSMOS 88",
+    "tier": "legendary",
+    "type": "satellite",
+    "owner": "CIS",
+    "launch": "1965-09-18",
+    "art": "early-satellite"
+   },
+   {
+    "id": 1572,
+    "name": "COSMOS 82",
+    "tier": "legendary",
+    "type": "satellite",
+    "owner": "CIS",
+    "launch": "1965-09-03",
+    "art": "early-satellite"
+   },
+   {
+    "id": 4168,
+    "name": "TEMPSAT 2",
+    "tier": "legendary",
+    "type": "satellite",
+    "owner": "US",
+    "launch": "1969-09-30",
+    "art": "early-satellite"
+   },
+   {
+    "id": 43229,
+    "name": "PODSAT",
+    "tier": "legendary",
+    "type": "satellite",
+    "owner": "US",
+    "launch": "2018-03-06",
+    "art": "modern-satellite"
+   },
+   {
+    "id": 44493,
+    "name": "ZHONGXING-18",
+    "tier": "legendary",
+    "type": "satellite",
+    "owner": "PRC",
+    "launch": "2019-08-19",
+    "art": "modern-satellite"
+   },
+   {
+    "id": 26609,
+    "name": "PHASE 3D (AO-40)",
+    "tier": "epic",
+    "type": "satellite",
+    "owner": "GER",
+    "launch": "2000-11-16",
+    "art": "modern-satellite"
+   },
+   {
+    "id": 11135,
+    "name": "COSMOS 1058",
+    "tier": "epic",
+    "type": "satellite",
+    "owner": "CIS",
+    "launch": "1978-12-05",
+    "art": "classic-satellite"
+   },
+   {
+    "id": 7684,
+    "name": "COSMOS 717",
+    "tier": "epic",
+    "type": "satellite",
+    "owner": "CIS",
+    "launch": "1975-02-28",
+    "art": "classic-satellite"
+   },
+   {
+    "id": 8613,
+    "name": "COSMOS 797",
+    "tier": "epic",
+    "type": "satellite",
+    "owner": "CIS",
+    "launch": "1976-01-28",
+    "art": "classic-satellite"
+   },
+   {
+    "id": 10930,
+    "name": "COSMOS 1013",
+    "tier": "epic",
+    "type": "satellite",
+    "owner": "CIS",
+    "launch": "1978-06-07",
+    "art": "classic-satellite"
+   },
+   {
+    "id": 11049,
+    "name": "COSMOS 1040",
+    "tier": "epic",
+    "type": "satellite",
+    "owner": "CIS",
+    "launch": "1978-10-04",
+    "art": "classic-satellite"
+   },
+   {
+    "id": 11050,
+    "name": "COSMOS 1041",
+    "tier": "epic",
+    "type": "satellite",
+    "owner": "CIS",
+    "launch": "1978-10-04",
+    "art": "classic-satellite"
+   },
+   {
+    "id": 11133,
+    "name": "COSMOS 1056",
+    "tier": "epic",
+    "type": "satellite",
+    "owner": "CIS",
+    "launch": "1978-12-05",
+    "art": "classic-satellite"
+   },
+   {
+    "id": 11134,
+    "name": "COSMOS 1057",
+    "tier": "epic",
+    "type": "satellite",
+    "owner": "CIS",
+    "launch": "1978-12-05",
+    "art": "classic-satellite"
+   },
+   {
+    "id": 7826,
+    "name": "COSMOS 737",
+    "tier": "epic",
+    "type": "satellite",
+    "owner": "CIS",
+    "launch": "1975-05-28",
+    "art": "classic-satellite"
+   },
+   {
+    "id": 8612,
+    "name": "COSMOS 796",
+    "tier": "epic",
+    "type": "satellite",
+    "owner": "CIS",
+    "launch": "1976-01-28",
+    "art": "classic-satellite"
+   },
+   {
+    "id": 8895,
+    "name": "COSMOS 831",
+    "tier": "epic",
+    "type": "satellite",
+    "owner": "CIS",
+    "launch": "1976-06-15",
+    "art": "classic-satellite"
+   },
+   {
+    "id": 8896,
+    "name": "COSMOS 832",
+    "tier": "epic",
+    "type": "satellite",
+    "owner": "CIS",
+    "launch": "1976-06-15",
+    "art": "classic-satellite"
+   },
+   {
+    "id": 10931,
+    "name": "COSMOS 1014",
+    "tier": "epic",
+    "type": "satellite",
+    "owner": "CIS",
+    "launch": "1978-06-07",
+    "art": "classic-satellite"
+   },
+   {
+    "id": 10932,
+    "name": "COSMOS 1015",
+    "tier": "epic",
+    "type": "satellite",
+    "owner": "CIS",
+    "launch": "1978-06-07",
+    "art": "classic-satellite"
+   }
+  ]
+ }
+}
