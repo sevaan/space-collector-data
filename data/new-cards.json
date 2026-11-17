@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T19:41:58.262Z",
+ "updated": "2026-11-17T18:39:15.636Z",
  "cards": [
   {
    "id": 100089,
@@ -242,6 +242,39 @@
    "launch": "2026-11-14",
    "added": "2026-11-15",
    "art": null
+  },
+  {
+   "id": 55104,
+   "name": "SHARJAHSAT-1",
+   "tier": "legendary",
+   "type": "satellite",
+   "kind": "PAY",
+   "owner": "UAE",
+   "launch": "2023-01-03",
+   "added": "2026-11-17",
+   "art": "modern-satellite"
+  },
+  {
+   "id": 56745,
+   "name": "SNIPE 2",
+   "tier": "legendary",
+   "type": "satellite",
+   "kind": "PAY",
+   "owner": "SKOR",
+   "launch": "2023-05-25",
+   "added": "2026-11-17",
+   "art": "modern-satellite"
+  },
+  {
+   "id": 62649,
+   "name": "AE1C",
+   "tier": "legendary",
+   "type": "satellite",
+   "kind": "PAY",
+   "owner": "JPN",
+   "launch": "2025-01-14",
+   "added": "2026-11-17",
+   "art": "modern-satellite"
   }
  ],
  "backlog": {
