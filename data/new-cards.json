@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T18:39:15.636Z",
+ "updated": "2026-11-18T18:10:35.480Z",
  "cards": [
   {
    "id": 100089,
@@ -153,7 +153,7 @@
    "owner": "CIS",
    "launch": "2024-11-04",
    "added": "2026-11-12",
-   "art": "modern-satellite"
+   "art": null
   },
   {
    "id": 101329,
@@ -186,7 +186,7 @@
    "owner": "CIS",
    "launch": "2020-09-28",
    "added": "2026-11-15",
-   "art": "modern-satellite"
+   "art": null
   },
   {
    "id": 56747,
@@ -252,7 +252,7 @@
    "owner": "UAE",
    "launch": "2023-01-03",
    "added": "2026-11-17",
-   "art": "modern-satellite"
+   "art": null
   },
   {
    "id": 56745,
@@ -263,7 +263,7 @@
    "owner": "SKOR",
    "launch": "2023-05-25",
    "added": "2026-11-17",
-   "art": "modern-satellite"
+   "art": null
   },
   {
    "id": 62649,
@@ -274,27 +274,29 @@
    "owner": "JPN",
    "launch": "2025-01-14",
    "added": "2026-11-17",
+   "art": null
+  },
+  {
+   "id": 63298,
+   "name": "OBJECT H",
+   "tier": "epic",
+   "type": "satellite",
+   "kind": "PAY",
+   "owner": "PRC",
+   "launch": "2025-03-17",
+   "added": "2026-11-18",
    "art": "modern-satellite"
   }
  ],
  "backlog": {
-  "total": 327,
+  "total": 82,
   "byKey": {
-   "early-satellite": 42,
-   "rocket-stage": 8,
-   "classic-satellite": 79,
-   "modern-satellite": 198
+   "early-satellite": 1,
+   "classic-satellite": 14,
+   "modern-satellite": 64,
+   "rocket-stage": 3
   },
   "top": [
-   {
-    "id": 4168,
-    "name": "TEMPSAT 2",
-    "tier": "legendary",
-    "type": "satellite",
-    "owner": "US",
-    "launch": "1969-09-30",
-    "art": "early-satellite"
-   },
    {
     "id": 43229,
     "name": "PODSAT",
@@ -305,66 +307,12 @@
     "art": "modern-satellite"
    },
    {
-    "id": 44493,
-    "name": "ZHONGXING-18",
-    "tier": "legendary",
-    "type": "satellite",
-    "owner": "PRC",
-    "launch": "2019-08-19",
-    "art": "modern-satellite"
-   },
-   {
-    "id": 26609,
-    "name": "PHASE 3D (AO-40)",
-    "tier": "epic",
-    "type": "satellite",
-    "owner": "GER",
-    "launch": "2000-11-16",
-    "art": "modern-satellite"
-   },
-   {
-    "id": 2872,
-    "name": "SURCAL 159",
-    "tier": "epic",
-    "type": "satellite",
-    "owner": "US",
-    "launch": "1967-05-31",
-    "art": "early-satellite"
-   },
-   {
-    "id": 4132,
-    "name": "SOICAL [CONE]",
-    "tier": "epic",
-    "type": "satellite",
-    "owner": "US",
-    "launch": "1969-09-30",
-    "art": "early-satellite"
-   },
-   {
     "id": 43236,
     "name": "LKW-4",
     "tier": "epic",
     "type": "satellite",
     "owner": "PRC",
     "launch": "2018-03-17",
-    "art": "modern-satellite"
-   },
-   {
-    "id": 44538,
-    "name": "ZHUHAI-1 03D",
-    "tier": "epic",
-    "type": "satellite",
-    "owner": "PRC",
-    "launch": "2019-09-19",
-    "art": "modern-satellite"
-   },
-   {
-    "id": 48951,
-    "name": "DEMO8 (TENZING)",
-    "tier": "epic",
-    "type": "satellite",
-    "owner": "US",
-    "launch": "2021-06-30",
     "art": "modern-satellite"
    },
    {
@@ -395,15 +343,6 @@
     "art": "modern-satellite"
    },
    {
-    "id": 53754,
-    "name": "SHERPA-LTC2",
-    "tier": "epic",
-    "type": "satellite",
-    "owner": "US",
-    "launch": "2022-09-05",
-    "art": "modern-satellite"
-   },
-   {
     "id": 54109,
     "name": "COSMOS 2561",
     "tier": "epic",
@@ -427,15 +366,6 @@
     "tier": "epic",
     "type": "satellite",
     "owner": "AUS",
-    "launch": "2023-01-03",
-    "art": "modern-satellite"
-   },
-   {
-    "id": 55056,
-    "name": "VIGORIDE-5",
-    "tier": "epic",
-    "type": "satellite",
-    "owner": "US",
     "launch": "2023-01-03",
     "art": "modern-satellite"
    },
@@ -476,24 +406,6 @@
     "art": "modern-satellite"
    },
    {
-    "id": 58334,
-    "name": "OUTPOST MISSION 2",
-    "tier": "epic",
-    "type": "satellite",
-    "owner": "US",
-    "launch": "2023-11-11",
-    "art": "modern-satellite"
-   },
-   {
-    "id": 58820,
-    "name": "TAIJING-2 04",
-    "tier": "epic",
-    "type": "satellite",
-    "owner": "PRC",
-    "launch": "2024-01-23",
-    "art": "modern-satellite"
-   },
-   {
     "id": 58823,
     "name": "TAIJING-4 03",
     "tier": "epic",
@@ -509,6 +421,105 @@
     "type": "satellite",
     "owner": "CIS",
     "launch": "2024-02-09",
+    "art": "modern-satellite"
+   },
+   {
+    "id": 60745,
+    "name": "OBJECT A",
+    "tier": "epic",
+    "type": "satellite",
+    "owner": "PRC",
+    "launch": "2024-08-29",
+    "art": "modern-satellite"
+   },
+   {
+    "id": 61180,
+    "name": "OBJECT B",
+    "tier": "epic",
+    "type": "satellite",
+    "owner": "CIS",
+    "launch": "2024-09-17",
+    "art": "modern-satellite"
+   },
+   {
+    "id": 61229,
+    "name": "OBJECT C",
+    "tier": "epic",
+    "type": "satellite",
+    "owner": "PRC",
+    "launch": "2024-09-24",
+    "art": "modern-satellite"
+   },
+   {
+    "id": 61744,
+    "name": "OBJECT K",
+    "tier": "epic",
+    "type": "satellite",
+    "owner": "TBD",
+    "launch": "2024-11-04",
+    "art": "modern-satellite"
+   },
+   {
+    "id": 61761,
+    "name": "OBJECT AC",
+    "tier": "epic",
+    "type": "satellite",
+    "owner": "TBD",
+    "launch": "2024-11-04",
+    "art": "modern-satellite"
+   },
+   {
+    "id": 61768,
+    "name": "OBJECT AK",
+    "tier": "epic",
+    "type": "satellite",
+    "owner": "TBD",
+    "launch": "2024-11-04",
+    "art": "modern-satellite"
+   },
+   {
+    "id": 62691,
+    "name": "TRANSPORTER-12 OBJECT CL",
+    "tier": "epic",
+    "type": "satellite",
+    "owner": "TBD",
+    "launch": "2025-01-14",
+    "art": "modern-satellite"
+   },
+   {
+    "id": 63209,
+    "name": "TIANYAN 23",
+    "tier": "epic",
+    "type": "satellite",
+    "owner": "PRC",
+    "launch": "2025-03-15",
+    "art": "modern-satellite"
+   },
+   {
+    "id": 63523,
+    "name": "OBJECT E",
+    "tier": "epic",
+    "type": "satellite",
+    "owner": "PRC",
+    "launch": "2024-11-15",
+    "art": "modern-satellite"
+   },
+   {
+    "id": 65267,
+    "name": "COSMOS 2591",
+    "tier": "epic",
+    "type": "satellite",
+    "owner": "CIS",
+    "launch": "2025-08-21",
+    "art": "modern-satellite"
+   },
+   {
+    "id": 65268,
+    "name": "COSMOS 2592",
+    "tier": "epic",
+    "type": "satellite",
+    "owner": "CIS",
+    "launch": "2025-08-21",
     "art": "modern-satellite"
    }
   ]
