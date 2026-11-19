@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T18:10:35.480Z",
+ "updated": "2026-11-19T18:23:32.466Z",
  "cards": [
   {
    "id": 100089,
@@ -285,6 +285,28 @@
    "owner": "PRC",
    "launch": "2025-03-17",
    "added": "2026-11-18",
+   "art": "modern-satellite"
+  },
+  {
+   "id": 56201,
+   "name": "NUSAT-39 (TIKVAH ALPER)",
+   "tier": "legendary",
+   "type": "satellite",
+   "kind": "PAY",
+   "owner": "ARGN",
+   "launch": "2023-04-15",
+   "added": "2026-11-19",
+   "art": "modern-satellite"
+  },
+  {
+   "id": 60476,
+   "name": "QUBE",
+   "tier": "legendary",
+   "type": "satellite",
+   "kind": "PAY",
+   "owner": "GER",
+   "launch": "2024-08-16",
+   "added": "2026-11-19",
    "art": "modern-satellite"
   }
  ],
