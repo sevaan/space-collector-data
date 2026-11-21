@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T18:23:32.466Z",
+ "updated": "2026-11-21T16:51:47.314Z",
  "cards": [
   {
    "id": 100089,
@@ -296,7 +296,7 @@
    "owner": "ARGN",
    "launch": "2023-04-15",
    "added": "2026-11-19",
-   "art": "modern-satellite"
+   "art": null
   },
   {
    "id": 60476,
@@ -307,6 +307,39 @@
    "owner": "GER",
    "launch": "2024-08-16",
    "added": "2026-11-19",
+   "art": null
+  },
+  {
+   "id": 37607,
+   "name": "ARIANE 5 R/B",
+   "tier": "uncommon",
+   "type": "rocket-body",
+   "kind": "R/B",
+   "owner": "FR",
+   "launch": "2011-05-20",
+   "added": "2026-11-21",
+   "art": null
+  },
+  {
+   "id": 63362,
+   "name": "CZ-3B R/B",
+   "tier": "common",
+   "type": "rocket-body",
+   "kind": "R/B",
+   "owner": "PRC",
+   "launch": "2025-03-26",
+   "added": "2026-11-21",
+   "art": null
+  },
+  {
+   "id": 64962,
+   "name": "ENSHI XIDA SHANQUAN",
+   "tier": "legendary",
+   "type": "satellite",
+   "kind": "PAY",
+   "owner": "PRC",
+   "launch": "2025-07-29",
+   "added": "2026-11-21",
    "art": "modern-satellite"
   }
  ],
