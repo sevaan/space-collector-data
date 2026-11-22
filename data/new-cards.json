@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T16:51:47.314Z",
+ "updated": "2026-11-22T17:14:19.513Z",
  "cards": [
   {
    "id": 100089,
@@ -341,6 +341,17 @@
    "launch": "2025-07-29",
    "added": "2026-11-21",
    "art": "modern-satellite"
+  },
+  {
+   "id": 101425,
+   "name": "CZ-8A R/B",
+   "tier": "common",
+   "type": "rocket-body",
+   "kind": "R/B",
+   "owner": "PRC",
+   "launch": "2026-11-20",
+   "added": "2026-11-22",
+   "art": null
   }
  ],
  "backlog": {
