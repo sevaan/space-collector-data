@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T17:14:19.513Z",
+ "updated": "2026-11-23T21:31:29.516Z",
  "cards": [
   {
    "id": 100089,
@@ -351,6 +351,17 @@
    "owner": "PRC",
    "launch": "2026-11-20",
    "added": "2026-11-22",
+   "art": null
+  },
+  {
+   "id": 56232,
+   "name": "FENGYUN 3G",
+   "tier": "legendary",
+   "type": "satellite",
+   "kind": "PAY",
+   "owner": "PRC",
+   "launch": "2023-04-16",
+   "added": "2026-11-23",
    "art": null
   }
  ],
