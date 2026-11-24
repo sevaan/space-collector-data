@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T21:31:29.516Z",
+ "updated": "2026-11-24T20:14:17.547Z",
  "cards": [
   {
    "id": 100089,
@@ -362,6 +362,17 @@
    "owner": "PRC",
    "launch": "2023-04-16",
    "added": "2026-11-23",
+   "art": null
+  },
+  {
+   "id": 34197,
+   "name": "ARIANE 42P+ DEB",
+   "tier": "legendary",
+   "type": "debris",
+   "kind": "DEB",
+   "owner": "FR",
+   "launch": "1992-10-28",
+   "added": "2026-11-24",
    "art": null
   }
  ],
