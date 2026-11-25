@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T20:14:17.547Z",
+ "updated": "2026-11-25T19:23:16.463Z",
  "cards": [
   {
    "id": 100089,
@@ -373,6 +373,39 @@
    "owner": "FR",
    "launch": "1992-10-28",
    "added": "2026-11-24",
+   "art": null
+  },
+  {
+   "id": 60509,
+   "name": "FLOCK 4BE-29",
+   "tier": "legendary",
+   "type": "satellite",
+   "kind": "PAY",
+   "owner": "US",
+   "launch": "2024-08-16",
+   "added": "2026-11-25",
+   "art": null
+  },
+  {
+   "id": 101457,
+   "name": "PROGRESS-MS 36",
+   "tier": "epic",
+   "type": "satellite",
+   "kind": "PAY",
+   "owner": "CIS",
+   "launch": "2026-11-24",
+   "added": "2026-11-25",
+   "art": "modern-satellite"
+  },
+  {
+   "id": 101458,
+   "name": "SL-4 R/B",
+   "tier": "common",
+   "type": "rocket-body",
+   "kind": "R/B",
+   "owner": "CIS",
+   "launch": "2026-11-24",
+   "added": "2026-11-25",
    "art": null
   }
  ],
